@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4657454499FD2A41C646D7EEF47CBD6130BBD064",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "0ddd4b0f-3efa-41c9-a6f8-9f66cc500137++2945" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0ddd4b0f-3efa-41c9-a6f8-9f66cc500137++2945" : 0,
+    "4657454499FD2A41C646D7EEF47CBD6130BBD064" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FB7099CE-B140-4F14-8DF4-8D3B974A1B8A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0ddd4b0f-3efa-41c9-a6f8-9f66cc500137++2945" : "",
+    "4657454499FD2A41C646D7EEF47CBD6130BBD064" : "FJAlertController\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FJAlertController",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FJAlertController\/FJAlertController.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/123.57.250.233\/woaoo",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0ddd4b0f-3efa-41c9-a6f8-9f66cc500137++2945"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/IOSfengjie\/FJAlertController.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4657454499FD2A41C646D7EEF47CBD6130BBD064"
+    }
+  ]
+}
